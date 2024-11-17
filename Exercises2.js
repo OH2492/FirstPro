@@ -6,3 +6,5 @@ function Area(a, b) {
 console.log(Area(10, 20));
 
 // Exercise 2
+let Area2 = 15 * 30;
+console.log(Area === Area2);

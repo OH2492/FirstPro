@@ -1,6 +1,6 @@
 // Exercise 1
-let Name = "Omri Hober";
-var Name1 = "Omri Hober";
+let Name = "Omri";
+var Name1 = "Hober";
 const Name2 = "Omri Hober";
 console.log(Name, Name1, Name2);
 
