@@ -13,3 +13,4 @@ let PersonName = (Name, PersonalGr) => Name + PersonalGr;
 console.log(PersonName("Omri\n", "Hello Omri, how are you?"));
 
 // Exercise 4
+//test
